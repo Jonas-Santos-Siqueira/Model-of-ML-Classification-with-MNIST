@@ -1,4 +1,4 @@
-# Machine Learning Classification with MNIST
+# Classification with MNIST
 
 ----
 Para ver o código em python via colab:
